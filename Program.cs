@@ -1,7 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using SalesApi.Data;
 using SalesApi.Endpoints;
-using SalesApi.Endpoints;
 
 var builder = WebApplication.CreateBuilder(args);
 
